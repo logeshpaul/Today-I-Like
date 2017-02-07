@@ -8,3 +8,6 @@
 
 ### February 6, 2017
 - [React.JS Top 10 Articles of The Year (v.2017)](https://medium.mybridge.co/react-js-top-10-articles-of-the-year-v-2017-e95092964e49#.18ta8vmlx) 
+
+### February 7, 2017
+- [Leveling Up With React: React Router | CSS-Tricks](https://css-tricks.com/learning-react-router/) 
