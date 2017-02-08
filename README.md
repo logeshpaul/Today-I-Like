@@ -11,3 +11,6 @@
 
 ### February 7, 2017
 - [Leveling Up With React: React Router | CSS-Tricks](https://css-tricks.com/learning-react-router/) 
+
+### February 8, 2017
+- [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.m2x8ovt2i) 
