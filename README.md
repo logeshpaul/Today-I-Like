@@ -15,3 +15,6 @@
 ### February 8, 2017
 - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.m2x8ovt2i) 
 - [CSS Grid – Table layout is back. Be there and be square.  |  Web  |  Google Developers](https://developers.google.com/web/updates/2017/01/css-grid) 
+
+### February 9, 2017
+- [CSS "position: sticky" - Introduction and Polyfills](https://www.sitepoint.com/css-position-sticky-introduction-polyfills/) 
