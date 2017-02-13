@@ -18,3 +18,6 @@
 
 ### February 9, 2017
 - [CSS "position: sticky" - Introduction and Polyfills](https://www.sitepoint.com/css-position-sticky-introduction-polyfills/) 
+
+### February 13, 2017
+- [André Staltz - The web needs OpenWebTraffic](http://staltz.com/open-analytics.html) 
