@@ -21,3 +21,6 @@
 
 ### February 13, 2017
 - [André Staltz - The web needs OpenWebTraffic](http://staltz.com/open-analytics.html) 
+
+### February 14, 2017
+- [The Artificially Intelligent, Body-Hacking Branding Of 2022 | Co.Design | business + design](https://www.fastcodesign.com/3067082/the-artificially-intelligent-body-hacking-branding-of-2022) 
