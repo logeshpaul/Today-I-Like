@@ -24,3 +24,6 @@
 
 ### February 14, 2017
 - [The Artificially Intelligent, Body-Hacking Branding Of 2022 | Co.Design | business + design](https://www.fastcodesign.com/3067082/the-artificially-intelligent-body-hacking-branding-of-2022) 
+
+### February 15, 2017
+- [HTML5 for the mobile web - forms and input types - mobiForge](https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types) 
