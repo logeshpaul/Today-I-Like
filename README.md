@@ -27,3 +27,6 @@
 
 ### February 15, 2017
 - [HTML5 for the mobile web - forms and input types - mobiForge](https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types) 
+
+### February 17, 2017
+- [The Joel Test: 12 Steps to Better Code – Joel on Software](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 
