@@ -30,3 +30,6 @@
 
 ### February 17, 2017
 - [The Joel Test: 12 Steps to Better Code – Joel on Software](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 
+
+### February 21, 2017
+- [Perfectionism Killed my Productivity – Desk of van Schneider – Medium](https://medium.com/desk-of-van-schneider/perfectionism-killed-my-productivity-b9240aec5d2f#.f38k27927) 
