@@ -33,3 +33,6 @@
 
 ### February 21, 2017
 - [Perfectionism Killed my Productivity – Desk of van Schneider – Medium](https://medium.com/desk-of-van-schneider/perfectionism-killed-my-productivity-b9240aec5d2f#.f38k27927) 
+
+### February 22, 2017
+- [What’s a JavaScript closure? In plain English, please.](https://medium.freecodecamp.com/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c#.ld1ccath3) 
