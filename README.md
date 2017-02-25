@@ -36,3 +36,6 @@
 
 ### February 22, 2017
 - [What’s a JavaScript closure? In plain English, please.](https://medium.freecodecamp.com/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c#.ld1ccath3) 
+
+### February 26, 2017
+- [6 Things You Need to Recover From Every Day – The Mission – Medium](https://medium.com/the-mission/6-things-every-person-should-recover-from-daily-14271441b702#.b5csn8j05) 
