@@ -42,3 +42,6 @@
 
 ### February 27, 2017
 - [(Deep Work) => Flow - A proven Path to Satisfaction - RWieruch](https://www.robinwieruch.de/lessons-learned-deep-work-flow/) 
+
+### March 6, 2017
+- [Seven things you should always keep secret](https://brightside.me/article/seven-things-you-should-always-keep-secret-16205/) 
