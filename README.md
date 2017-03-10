@@ -45,3 +45,6 @@
 
 ### March 6, 2017
 - [Seven things you should always keep secret](https://brightside.me/article/seven-things-you-should-always-keep-secret-16205/) 
+
+### March 10, 2017
+- [How to *never* complete anything](http://ewanvalentine.io/how-to-never-complete-anything/) 
