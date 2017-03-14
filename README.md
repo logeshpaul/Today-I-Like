@@ -48,3 +48,6 @@
 
 ### March 10, 2017
 - [How to *never* complete anything](http://ewanvalentine.io/how-to-never-complete-anything/) 
+
+### March 14, 2017
+- [Don’t Call it a Newsletter: Tips from Tobias van Schneider – MailChimp ❤ Agencies – Medium](https://medium.com/mailchimp-for-agencies/dont-call-it-a-newsletter-tips-from-tobias-van-schneider-afcef8a799d7#.ek0kcw5bu) 
