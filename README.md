@@ -51,3 +51,6 @@
 
 ### March 14, 2017
 - [Don’t Call it a Newsletter: Tips from Tobias van Schneider – MailChimp ❤ Agencies – Medium](https://medium.com/mailchimp-for-agencies/dont-call-it-a-newsletter-tips-from-tobias-van-schneider-afcef8a799d7#.ek0kcw5bu) 
+
+### March 20, 2017
+- [DeepMind in talks with National Grid to reduce UK energy use by 10% | Ars Technica UK](https://arstechnica.co.uk/information-technology/2017/03/deepmind-national-grid-machine-learning/) 
