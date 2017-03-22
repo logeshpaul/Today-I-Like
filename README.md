@@ -54,3 +54,6 @@
 
 ### March 20, 2017
 - [DeepMind in talks with National Grid to reduce UK energy use by 10% | Ars Technica UK](https://arstechnica.co.uk/information-technology/2017/03/deepmind-national-grid-machine-learning/) 
+
+### March 22, 2017
+- [“Yeah, but I could have done that too” - DESK of Tobias van Schneider](http://www.vanschneider.com/yeah-but-i-could-have-done-that-too/) 
