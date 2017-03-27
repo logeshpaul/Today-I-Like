@@ -57,3 +57,6 @@
 
 ### March 22, 2017
 - [“Yeah, but I could have done that too” - DESK of Tobias van Schneider](http://www.vanschneider.com/yeah-but-i-could-have-done-that-too/) 
+
+### March 27, 2017
+- [Perfectionism Ruined my Productivity - DESK of Tobias van Schneider](http://www.vanschneider.com/perfectionism-is-killing-your-creativity/) 
