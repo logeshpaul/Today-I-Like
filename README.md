@@ -60,3 +60,6 @@
 
 ### March 27, 2017
 - [Perfectionism Ruined my Productivity - DESK of Tobias van Schneider](http://www.vanschneider.com/perfectionism-is-killing-your-creativity/) 
+
+### June 14, 2017
+- [Dropdowns: Design Guidelines](https://www.nngroup.com/articles/drop-down-menus/) 
