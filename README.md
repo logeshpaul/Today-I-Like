@@ -63,3 +63,6 @@
 
 ### June 14, 2017
 - [Dropdowns: Design Guidelines](https://www.nngroup.com/articles/drop-down-menus/) 
+
+### July 4, 2017
+- [How I learned to code in my 30s – Udacity Inc – Medium](https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208) 
