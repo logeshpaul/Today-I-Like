@@ -66,3 +66,6 @@
 
 ### July 4, 2017
 - [How I learned to code in my 30s – Udacity Inc – Medium](https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208) 
+
+### July 19, 2017
+- [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b) 
