@@ -69,3 +69,6 @@
 
 ### July 19, 2017
 - [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b) 
+
+### July 28, 2017 
+- [5 CSS Properties That You Probably Don't Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/) 
