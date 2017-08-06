@@ -72,3 +72,6 @@
 
 ### July 28, 2017 
 - [5 CSS Properties That You Probably Don't Know](http://developer.telerik.com/topics/web-development/5-css-properties-probably-still-dont-know/) 
+
+### August 6, 2017 
+- [The Critical Request - Understanding network request prioirty](https://css-tricks.com/the-critical-request/) 
