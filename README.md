@@ -75,3 +75,6 @@
 
 ### August 6, 2017 
 - [The Critical Request - Understanding network request prioirty](https://css-tricks.com/the-critical-request/) 
+
+### August 25, 2017 
+- [How to Avoid Focus-stealing Traps](https://blog.evernote.com/blog/2017/08/08/avoid-focus-stealing-traps/) 
