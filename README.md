@@ -78,3 +78,6 @@
 
 ### August 25, 2017 
 - [How to Avoid Focus-stealing Traps](https://blog.evernote.com/blog/2017/08/08/avoid-focus-stealing-traps/) 
+
+### August 29, 2017 
+- [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/?mc_cid=f97727f813&mc_eid=fe9a676367) 
