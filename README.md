@@ -86,3 +86,6 @@
 - [How To Dramatically Sharpen Your Attention And Focus](https://medium.com/personal-growth/how-to-dramatically-sharpen-your-attention-and-focus-416444802997) 
 - [Get Your Exercise Mojo Back Now – Think Tank by NeuroGum](https://thinktank.neurogum.com/get-your-exercise-mojo-back-now-fc4496001239) 
 - [How I got a second degree and earned 5 developer certifications in just one year, while working and…](https://medium.freecodecamp.org/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab) 
+
+### September 11, 2017 
+- [Compilers are the New Frameworks - tomdale.net](https://tomdale.net/2017/09/compilers-are-the-new-frameworks/) 
