@@ -89,3 +89,6 @@
 
 ### September 11, 2017 
 - [Compilers are the New Frameworks - tomdale.net](https://tomdale.net/2017/09/compilers-are-the-new-frameworks/) 
+
+### September 12, 2017 
+- [The quick guide to CSS length units - Slicejack](https://slicejack.com/quick-guide-to-css-length-units/) 
