@@ -95,3 +95,6 @@
 
 ### September 25, 2017 
 - [Inside a super fast CSS engine: Quantum CSS (aka Stylo) ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/?utm_source=CSS-Weekly&utm_campaign=Issue-280&utm_medium=email) 
+
+### September 28, 2017 
+- [Managing CSS & JS in an HTTP/2 World | Viget](https://www.viget.com/articles/managing-css-js-http-2) 
