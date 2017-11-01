@@ -98,3 +98,6 @@
 
 ### September 28, 2017 
 - [Managing CSS & JS in an HTTP/2 World | Viget](https://www.viget.com/articles/managing-css-js-http-2) 
+
+### November 1, 2017 
+- [My approach to using z-index – Hacker Noon](https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c) 
