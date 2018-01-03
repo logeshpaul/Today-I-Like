@@ -107,3 +107,4 @@
 
 ### January 3, 2018 
 - [Font-display playground](https://font-display.glitch.me/) 
+- [One Hour of Side Project Coding a Day*— a New Year’s Resolution Worth Making](https://medium.freecodecamp.org/one-hour-of-side-project-coding-a-day-a-new-years-resolution-worth-making-a2240ddb2d92) 
