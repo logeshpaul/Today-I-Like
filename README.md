@@ -112,3 +112,6 @@
 
 ### January 4, 2018 
 - [Front-End Tools: My Favorite Finds of 2017 | CSS-Tricks](https://css-tricks.com/front-end-tools-favorite-finds-2017/) 
+
+### January 8, 2018 
+- [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139?utm_source=CSS-Weekly&utm_campaign=Issue-296&utm_medium=email) 
