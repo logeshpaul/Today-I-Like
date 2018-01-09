@@ -115,3 +115,6 @@
 
 ### January 8, 2018 
 - [8 Best Practices for Perfect CSS Documentation](https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139?utm_source=CSS-Weekly&utm_campaign=Issue-296&utm_medium=email) 
+
+### January 9, 2018 
+- [Productivity Tips And Tricks: The Community Shares Its Piece Of Advice — Smashing Magazine](https://www.smashingmagazine.com/2017/12/community-productivity-tips-tricks/) 
