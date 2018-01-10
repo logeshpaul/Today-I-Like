@@ -118,3 +118,6 @@
 
 ### January 9, 2018 
 - [Productivity Tips And Tricks: The Community Shares Its Piece Of Advice — Smashing Magazine](https://www.smashingmagazine.com/2017/12/community-productivity-tips-tricks/) 
+
+### January 10, 2018 
+- [Do These 3 Things Before Setting Your Goals, Or You Won’t Succeed](https://medium.com/@deangraziosi_63934/do-these-3-things-before-setting-your-goals-or-you-wont-succeed-9f0268f1e5df) 
