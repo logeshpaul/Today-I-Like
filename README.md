@@ -121,3 +121,6 @@
 
 ### January 10, 2018 
 - [Do These 3 Things Before Setting Your Goals, Or You Won’t Succeed](https://medium.com/@deangraziosi_63934/do-these-3-things-before-setting-your-goals-or-you-wont-succeed-9f0268f1e5df) 
+
+### January 15, 2018 
+- [Ten Things A Serious JavaScript Developer Should Learn | benmccormick.org](https://benmccormick.org/2017/07/19/ten-things-javascript/) 
