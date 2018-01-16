@@ -124,3 +124,6 @@
 
 ### January 15, 2018 
 - [Ten Things A Serious JavaScript Developer Should Learn | benmccormick.org](https://benmccormick.org/2017/07/19/ten-things-javascript/) 
+
+### January 16, 2018 
+- [Why, what and how to invest in cryptocurrencies – Hacker Noon](https://hackernoon.com/cryptocurrencies-be4b3e326387) 
