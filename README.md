@@ -127,3 +127,6 @@
 
 ### January 16, 2018 
 - [Why, what and how to invest in cryptocurrencies – Hacker Noon](https://hackernoon.com/cryptocurrencies-be4b3e326387) 
+
+### January 18, 2018 
+- [Reduce, Reuse, React – Hacker Noon](https://hackernoon.com/reduce-reuse-react-1cd487f16fe0) 
