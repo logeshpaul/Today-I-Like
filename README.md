@@ -130,3 +130,6 @@
 
 ### January 18, 2018 
 - [Reduce, Reuse, React – Hacker Noon](https://hackernoon.com/reduce-reuse-react-1cd487f16fe0) 
+
+### January 23, 2018 
+- [19 Tiny Habits That Lead to Huge Results – Personal Growth – Medium](https://medium.com/personal-growth/19-tiny-habits-that-lead-to-huge-results-2f71a8da6be9) 
