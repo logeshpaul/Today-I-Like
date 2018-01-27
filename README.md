@@ -133,3 +133,6 @@
 
 ### January 23, 2018 
 - [19 Tiny Habits That Lead to Huge Results – Personal Growth – Medium](https://medium.com/personal-growth/19-tiny-habits-that-lead-to-huge-results-2f71a8da6be9) 
+
+### January 27, 2018 
+- [🚀webpack 4 beta — try it today!🚀 – webpack – Medium](https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2) 
