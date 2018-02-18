@@ -142,3 +142,6 @@
 
 ### February 13, 2018 
 - [21 Ways to Hack Your Sleep For Better Health – Dr. Stephanie Estima – Medium](https://medium.com/@drstephanie/21-ways-to-hack-your-sleep-for-better-health-854055235c1b) 
+
+### February 18, 2018 
+- [A Beginner's Guide to Currying in Functional JavaScript — SitePoint](https://www.sitepoint.com/currying-in-functional-javascript/) 
