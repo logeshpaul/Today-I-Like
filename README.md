@@ -145,3 +145,6 @@
 
 ### February 18, 2018 
 - [A Beginner's Guide to Currying in Functional JavaScript — SitePoint](https://www.sitepoint.com/currying-in-functional-javascript/) 
+
+### February 20, 2018 
+- [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa) 
