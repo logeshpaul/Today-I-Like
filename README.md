@@ -148,3 +148,4 @@
 
 ### February 20, 2018 
 - [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa) 
+- [Using Default Parameters in ES6 | CSS-Tricks](https://css-tricks.com/using-default-parameters-es6/) 
