@@ -149,3 +149,6 @@
 ### February 20, 2018 
 - [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa) 
 - [Using Default Parameters in ES6 | CSS-Tricks](https://css-tricks.com/using-default-parameters-es6/) 
+
+### March 13, 2018 
+- [Warren Buffett’s 5/25 Rule Will Help You Focus On The Things That Matter](https://medium.com/personal-growth/warren-buffetts-5-25-rule-will-help-you-focus-on-the-things-that-matter-2c383e09d13c) 
