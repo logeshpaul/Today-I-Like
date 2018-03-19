@@ -152,3 +152,6 @@
 
 ### March 13, 2018 
 - [Warren Buffett’s 5/25 Rule Will Help You Focus On The Things That Matter](https://medium.com/personal-growth/warren-buffetts-5-25-rule-will-help-you-focus-on-the-things-that-matter-2c383e09d13c) 
+
+### March 19, 2018 
+- [Houdini is like Babel but for CSS – Stoyan Delev – Medium](https://medium.com/@mutebg/houdini-could-be-like-babel-but-for-css-7110d7cb6d60) 
