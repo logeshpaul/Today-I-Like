@@ -155,3 +155,6 @@
 
 ### March 19, 2018 
 - [Houdini is like Babel but for CSS – Stoyan Delev – Medium](https://medium.com/@mutebg/houdini-could-be-like-babel-but-for-css-7110d7cb6d60) 
+
+### March 23, 2018 
+- [Creating Code Snippets in Visual Studio Code ― Scotch](https://scotch.io/bar-talk/write-less-code-by-creating-snippets-in-visual-studio-code) 
