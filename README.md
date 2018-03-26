@@ -158,3 +158,6 @@
 
 ### March 23, 2018 
 - [Creating Code Snippets in Visual Studio Code ― Scotch](https://scotch.io/bar-talk/write-less-code-by-creating-snippets-in-visual-studio-code) 
+
+### March 26, 2018 
+- [Why I changed the way I think about Code Quality – freeCodeCamp](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) 
