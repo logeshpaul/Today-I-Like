@@ -161,3 +161,6 @@
 
 ### March 26, 2018 
 - [Why I changed the way I think about Code Quality – freeCodeCamp](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) 
+
+### March 30, 2018 
+- [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5) 
