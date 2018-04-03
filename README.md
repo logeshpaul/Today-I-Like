@@ -164,3 +164,6 @@
 
 ### March 30, 2018 
 - [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5) 
+
+### April 3, 2018 
+- [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b) 
