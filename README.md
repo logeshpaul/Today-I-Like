@@ -167,3 +167,6 @@
 
 ### April 3, 2018 
 - [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b) 
+
+### April 11, 2018 
+- [I learned all data structures in a week. This is what it did to my brain.](https://codeburst.io/i-learned-all-data-structures-in-a-week-this-is-what-it-did-to-my-brain-547194ed5047) 
