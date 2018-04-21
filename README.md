@@ -170,3 +170,6 @@
 
 ### April 11, 2018 
 - [I learned all data structures in a week. This is what it did to my brain.](https://codeburst.io/i-learned-all-data-structures-in-a-week-this-is-what-it-did-to-my-brain-547194ed5047) 
+
+### April 21, 2018 
+- [The ultimate CSS battle: Grid vs Flexbox – Hacker Noon](https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf) 
