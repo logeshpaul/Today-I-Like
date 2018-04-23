@@ -173,3 +173,6 @@
 
 ### April 21, 2018 
 - [The ultimate CSS battle: Grid vs Flexbox – Hacker Noon](https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf) 
+
+### April 23, 2018 
+- [Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥](https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403) 
