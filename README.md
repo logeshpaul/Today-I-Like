@@ -176,3 +176,6 @@
 
 ### April 23, 2018 
 - [Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥](https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403) 
+
+### April 24, 2018 
+- [23 Things That Will Help You Create a Powerful Morning Routine](https://medium.com/thrive-global/23-things-that-will-help-you-create-a-powerful-morning-routine-c51ddec7a53c) 
