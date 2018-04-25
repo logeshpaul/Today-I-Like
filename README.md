@@ -179,3 +179,6 @@
 
 ### April 24, 2018 
 - [23 Things That Will Help You Create a Powerful Morning Routine](https://medium.com/thrive-global/23-things-that-will-help-you-create-a-powerful-morning-routine-c51ddec7a53c) 
+
+### April 25, 2018 
+- [5 tips for super-fast CSS | Creative Bloq](https://www.creativebloq.com/how-to/5-tips-for-super-fast-css) 
