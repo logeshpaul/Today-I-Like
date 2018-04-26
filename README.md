@@ -182,3 +182,6 @@
 
 ### April 25, 2018 
 - [5 tips for super-fast CSS | Creative Bloq](https://www.creativebloq.com/how-to/5-tips-for-super-fast-css) 
+
+### April 26, 2018 
+- [8 Books That Teach You To Be Rich – The Blog Of Darius Foroux – Medium](https://medium.com/darius-foroux/8-books-that-teach-you-to-be-rich-6bc9f2696b12) 
