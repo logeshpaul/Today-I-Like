@@ -185,3 +185,6 @@
 
 ### April 26, 2018 
 - [8 Books That Teach You To Be Rich – The Blog Of Darius Foroux – Medium](https://medium.com/darius-foroux/8-books-that-teach-you-to-be-rich-6bc9f2696b12) 
+
+### April 27, 2018 
+- [This 75-Year Harvard Study Shows How To Have Lifetime Joy](https://medium.com/thrive-global/this-75-year-harvard-study-reveals-the-secret-to-happiness-and-success-3cf0002510fe) 
