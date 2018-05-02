@@ -188,3 +188,6 @@
 
 ### April 27, 2018 
 - [This 75-Year Harvard Study Shows How To Have Lifetime Joy](https://medium.com/thrive-global/this-75-year-harvard-study-reveals-the-secret-to-happiness-and-success-3cf0002510fe) 
+
+### May 2, 2018 
+- [The Best Investment Decision I Have Ever Made – Personal Growth – Medium](https://medium.com/personal-growth/the-best-investment-decision-i-have-ever-made-84b4509ccd76) 
