@@ -191,3 +191,6 @@
 
 ### May 2, 2018 
 - [The Best Investment Decision I Have Ever Made – Personal Growth – Medium](https://medium.com/personal-growth/the-best-investment-decision-i-have-ever-made-84b4509ccd76) 
+
+### May 8, 2018 
+- [Set - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) 
