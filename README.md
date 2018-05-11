@@ -197,3 +197,4 @@
 
 ### May 11, 2018 
 - [From carbon to silicon: Rohan Murty | Forbes India](http://www.forbesindia.com/article/independence-day-special/from-carbon-to-silicon-rohan-murty/40873/1) 
+- [My Experience With Intermittent Fasting: How Time-Restricted Eating Changed My Life](https://medium.com/@jonhainstock/my-experience-with-intermittent-fasting-how-time-restricted-eating-changed-my-life-d409fc4e0840) 
