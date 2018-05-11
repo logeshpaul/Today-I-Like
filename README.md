@@ -194,3 +194,6 @@
 
 ### May 8, 2018 
 - [Set - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) 
+
+### May 11, 2018 
+- [From carbon to silicon: Rohan Murty | Forbes India](http://www.forbesindia.com/article/independence-day-special/from-carbon-to-silicon-rohan-murty/40873/1) 
