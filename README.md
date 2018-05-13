@@ -201,3 +201,6 @@
 
 ### May 13, 2018 
 - [All About Intermittent Fasting, Chapter 1 | Precision Nutrition](https://www.precisionnutrition.com/intermittent-fasting) 
+
+### May 14, 2018 
+- [What To Do When People Don’t Like You – The Mission – Medium](https://medium.com/the-mission/what-to-do-when-people-dont-like-you-ed35bbfd4e0e) 
