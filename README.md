@@ -204,3 +204,6 @@
 
 ### May 14, 2018 
 - [What To Do When People Don’t Like You – The Mission – Medium](https://medium.com/the-mission/what-to-do-when-people-dont-like-you-ed35bbfd4e0e) 
+
+### May 15, 2018 
+- [Context - React](https://reactjs.org/docs/context.html) 
