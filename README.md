@@ -210,3 +210,6 @@
 
 ### May 16, 2018 
 - [The keys - How HTTPS works](https://howhttps.works/the-keys/) 
+
+### May 18, 2018 
+- [The Best Place for Error Messages on Forms](http://uxmovement.com/forms/the-best-place-for-error-messages-on-forms/) 
