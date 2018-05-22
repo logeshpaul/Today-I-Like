@@ -213,3 +213,6 @@
 
 ### May 18, 2018 
 - [The Best Place for Error Messages on Forms](http://uxmovement.com/forms/the-best-place-for-error-messages-on-forms/) 
+
+### May 22, 2018 
+- [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2) 
