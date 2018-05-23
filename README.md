@@ -216,3 +216,6 @@
 
 ### May 22, 2018 
 - [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2) 
+
+### May 23, 2018 
+- [5 Keys to Wealth According Tim Ferriss – The Mission – Medium](https://medium.com/the-mission/5-keys-to-wealth-according-tim-ferriss-c7e4e0288d35) 
