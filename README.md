@@ -1,6 +1,9 @@
 
 
 
+
+### June 7, 2018 
+- [My anti-procrastination list](https://dev.to/edneypitta/my-anti-procrastination-list-572h?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### June 5, 2018 
 - [How to use variable fonts in the real world – Clear(left) Thinking – Medium](https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604) 
 ### June 4, 2018 
