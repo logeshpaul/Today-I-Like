@@ -2,6 +2,9 @@
 
 
 
+
+### June 11, 2018 
+- [There Are Two Ways to Read - One Is Useless – Personal Growth – Medium](https://medium.com/personal-growth/there-are-two-ways-to-read-one-is-useless-cc152cf4f51b) 
 ### June 7, 2018 
 - [My anti-procrastination list](https://dev.to/edneypitta/my-anti-procrastination-list-572h?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### June 5, 2018 
