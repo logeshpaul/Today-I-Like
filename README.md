@@ -6,6 +6,7 @@
 
 ### June 12, 2018 
 - [How To Write Better Code In React – Bits and Pieces](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0) 
+- [Combining the Powers of SEM and BIO for Improving CSS | CSS-Tricks](https://css-tricks.com/combining-the-powers-of-sem-and-bio-for-improving-css/) 
 ### June 11, 2018 
 - [There Are Two Ways to Read - One Is Useless – Personal Growth – Medium](https://medium.com/personal-growth/there-are-two-ways-to-read-one-is-useless-cc152cf4f51b) 
 ### June 7, 2018 
