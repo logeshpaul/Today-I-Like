@@ -4,6 +4,9 @@
 
 
 
+
+### June 13, 2018 
+- [Part 2: Var vs Const vs Let – codeburst](https://codeburst.io/part-2-var-vs-const-vs-let-69ea73fe76c1) 
 ### June 12, 2018 
 - [How To Write Better Code In React – Bits and Pieces](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0) 
 - [Combining the Powers of SEM and BIO for Improving CSS | CSS-Tricks](https://css-tricks.com/combining-the-powers-of-sem-and-bio-for-improving-css/) 
