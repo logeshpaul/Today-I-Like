@@ -5,6 +5,9 @@
 
 
 
+
+### June 18, 2018 
+- [Your Brain on Front-End Development | CSS-Tricks](https://css-tricks.com/your-brain-on-front-end-development/) 
 ### June 13, 2018 
 - [Part 2: Var vs Const vs Let – codeburst](https://codeburst.io/part-2-var-vs-const-vs-let-69ea73fe76c1) 
 ### June 12, 2018 
