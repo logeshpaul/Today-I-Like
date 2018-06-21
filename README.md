@@ -6,6 +6,9 @@
 
 
 
+
+### June 21, 2018 
+- [12 Ways to Get Millions of People to Your Website – The Mission – Medium](https://medium.com/the-mission/12-ways-to-get-millions-of-people-to-your-website-c7b3ef6ea932) 
 ### June 18, 2018 
 - [Your Brain on Front-End Development | CSS-Tricks](https://css-tricks.com/your-brain-on-front-end-development/) 
 ### June 13, 2018 
