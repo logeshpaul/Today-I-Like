@@ -7,6 +7,9 @@
 
 
 
+
+### June 25, 2018 
+- [How to Read the Right Way: A Complete Guide – The Mission – Medium](https://medium.com/the-mission/how-to-read-the-right-way-a-complete-guide-82042876be2c) 
 ### June 21, 2018 
 - [12 Ways to Get Millions of People to Your Website – The Mission – Medium](https://medium.com/the-mission/12-ways-to-get-millions-of-people-to-your-website-c7b3ef6ea932) 
 ### June 18, 2018 
