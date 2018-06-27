@@ -9,6 +9,9 @@
 
 
 
+
+### June 27, 2018 
+- [Coding Etiquette to Make Other Developers Hate You Less](https://speckyboy.com/coding-etiquette/) 
 ### June 26, 2018 
 - [Workspaces in Yarn | Yarn Blog](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) 
 ### June 25, 2018 
