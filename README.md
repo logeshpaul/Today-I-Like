@@ -10,6 +10,9 @@
 
 
 
+
+### June 28, 2018 
+- [CSS Floats Explained By Riding An Escalator – freeCodeCamp](https://medium.freecodecamp.org/css-floats-explained-by-riding-an-escalator-57fa55232333) 
 ### June 27, 2018 
 - [Coding Etiquette to Make Other Developers Hate You Less](https://speckyboy.com/coding-etiquette/) 
 ### June 26, 2018 
