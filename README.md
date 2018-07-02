@@ -11,6 +11,9 @@
 
 
 
+
+### July 2, 2018 
+- [3 Powerful Ways To Uplift Yourself When You Hit A Low Point In Life](https://medium.com/swlh/3-powerful-ways-to-uplift-yourself-when-you-hit-a-low-point-in-life-bb32574b97d7) 
 ### June 28, 2018 
 - [CSS Floats Explained By Riding An Escalator – freeCodeCamp](https://medium.freecodecamp.org/css-floats-explained-by-riding-an-escalator-57fa55232333) 
 ### June 27, 2018 
