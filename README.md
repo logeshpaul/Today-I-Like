@@ -12,6 +12,9 @@
 
 
 
+
+### July 4, 2018 
+- [How to Exercise When You Can’t Stand It – On The Couch – Medium](https://medium.com/on-the-couch/how-to-exercise-when-you-cant-stand-it-68a73c0e58e2) 
 ### July 2, 2018 
 - [3 Powerful Ways To Uplift Yourself When You Hit A Low Point In Life](https://medium.com/swlh/3-powerful-ways-to-uplift-yourself-when-you-hit-a-low-point-in-life-bb32574b97d7) 
 ### June 28, 2018 
