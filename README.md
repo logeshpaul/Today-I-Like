@@ -16,6 +16,7 @@
 
 ### July 5, 2018 
 - [Why you should already be using CSS Grid - DEV Community 👩‍💻👨‍💻](https://dev.to/willamesoares/why-you-should-already-be-using-css-grid-pch) 
+- [Headless User Interface Components – Merrick Christensen – Medium](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18) 
 ### July 4, 2018 
 - [How to Exercise When You Can’t Stand It – On The Couch – Medium](https://medium.com/on-the-couch/how-to-exercise-when-you-cant-stand-it-68a73c0e58e2) 
 ### July 2, 2018 
