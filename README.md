@@ -14,6 +14,9 @@
 
 
 
+
+### July 10, 2018 
+- [The Best Way to Understand E=mc2 - wikiHow](https://www.wikihow.com/Understand-E%3Dmc2) 
 ### July 5, 2018 
 - [Why you should already be using CSS Grid - DEV Community 👩‍💻👨‍💻](https://dev.to/willamesoares/why-you-should-already-be-using-css-grid-pch) 
 - [Headless User Interface Components – Merrick Christensen – Medium](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18) 
