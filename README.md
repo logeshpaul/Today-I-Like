@@ -15,6 +15,9 @@
 
 
 
+
+### July 12, 2018 
+- [73 Mind-Blowing Implications of a Driverless Future](https://medium.com/@DonotInnovate/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d) 
 ### July 10, 2018 
 - [The Best Way to Understand E=mc2 - wikiHow](https://www.wikihow.com/Understand-E%3Dmc2) 
 ### July 5, 2018 
