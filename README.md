@@ -16,6 +16,9 @@
 
 
 
+
+### July 18, 2018 
+- [How I Hacked Time by Getting Up at 5: 30 AM ~ Self Scroll](https://selfscroll.com/how-i-hacked-time-by-getting-up-at-530am/) 
 ### July 12, 2018 
 - [73 Mind-Blowing Implications of a Driverless Future](https://medium.com/@DonotInnovate/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d) 
 ### July 10, 2018 
