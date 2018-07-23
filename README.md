@@ -17,6 +17,9 @@
 
 
 
+
+### July 23, 2018 
+- [The simplest explanation of machine learning you’ll ever read](https://hackernoon.com/the-simplest-explanation-of-machine-learning-youll-ever-read-bebc0700047c) 
 ### July 18, 2018 
 - [How I Hacked Time by Getting Up at 5: 30 AM ~ Self Scroll](https://selfscroll.com/how-i-hacked-time-by-getting-up-at-530am/) 
 ### July 12, 2018 
