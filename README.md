@@ -21,6 +21,7 @@
 
 ### July 25, 2018 
 - [The Shell Introduction I Wish I Had - DEV Community 👩‍💻👨‍💻](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k?utm_source=Newsletter+Subscribers&utm_campaign=fddfee53fa-EMAIL_CAMPAIGN_2018_07_23_03_28&utm_medium=email&utm_term=0_d8f11d5d1e-fddfee53fa-154449157) 
+- [My Visual Studio Code Setup - DEV Community 👩‍💻👨‍💻](https://dev.to/aspittel/my-visual-studio-code-setup-1emn?utm_source=Newsletter+Subscribers&utm_campaign=fddfee53fa-EMAIL_CAMPAIGN_2018_07_23_03_28&utm_medium=email&utm_term=0_d8f11d5d1e-fddfee53fa-154449157) 
 ### July 23, 2018 
 - [The simplest explanation of machine learning you’ll ever read](https://hackernoon.com/the-simplest-explanation-of-machine-learning-youll-ever-read-bebc0700047c) 
 ### July 18, 2018 
