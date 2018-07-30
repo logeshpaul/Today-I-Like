@@ -20,6 +20,9 @@
 
 
 
+
+### July 30, 2018 
+- [The only Mac apps you need for a productive 2018 👨🏻‍💻](https://medium.com/naturehub/the-only-mac-apps-you-need-for-a-productive-2018-5e1d6de787b7) 
 ### July 26, 2018 
 - [Top 8 Data Structures for Coding Interviews and practice interview questions - DEV Community 👩‍💻👨‍💻](https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb) 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM — Smashing Magazine](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/#top) 
