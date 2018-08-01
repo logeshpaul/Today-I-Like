@@ -21,6 +21,9 @@
 
 
 
+
+### August 1, 2018 
+- [The Healthiest People in the World Don’t Go to the Gym](https://medium.com/s/story/the-healthiest-people-in-the-world-dont-go-to-the-gym-d3eb6bb1e7d0) 
 ### July 30, 2018 
 - [The only Mac apps you need for a productive 2018 👨🏻‍💻](https://medium.com/naturehub/the-only-mac-apps-you-need-for-a-productive-2018-5e1d6de787b7) 
 ### July 26, 2018 
