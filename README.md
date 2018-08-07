@@ -22,6 +22,9 @@
 
 
 
+
+### August 7, 2018 
+- [Seven Health Habits You Can Use to Build Energy and Get More Done Every Day](https://medium.com/time-dorks/seven-health-habits-you-can-use-to-build-energy-and-get-more-done-every-day-8281cb8bf240) 
 ### August 1, 2018 
 - [The Healthiest People in the World Don’t Go to the Gym](https://medium.com/s/story/the-healthiest-people-in-the-world-dont-go-to-the-gym-d3eb6bb1e7d0) 
 ### July 30, 2018 
