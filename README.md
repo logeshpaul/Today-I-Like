@@ -23,6 +23,9 @@
 
 
 
+
+### August 8, 2018 
+- [Keeping up in the JavaScript world 🏃‍ - DEV Community 👩‍💻👨‍💻](https://dev.to/superkarolis/keeping-up-in-the-javascript-world--50pl?utm_source=Newsletter+Subscribers&utm_campaign=781e0f4d39-EMAIL_CAMPAIGN_2018_07_30_10_11_COPY_01&utm_medium=email&utm_term=0_d8f11d5d1e-781e0f4d39-154449157) 
 ### August 7, 2018 
 - [Seven Health Habits You Can Use to Build Energy and Get More Done Every Day](https://medium.com/time-dorks/seven-health-habits-you-can-use-to-build-energy-and-get-more-done-every-day-8281cb8bf240) 
 - [Do your commits pass this simple test? - DEV Community 👩‍💻👨‍💻](https://dev.to/sublimegeek/do-your-commits-pass-this-simple-test-4ak2?utm_source=Newsletter+Subscribers&utm_campaign=781e0f4d39-EMAIL_CAMPAIGN_2018_07_30_10_11_COPY_01&utm_medium=email&utm_term=0_d8f11d5d1e-781e0f4d39-154449157) 
