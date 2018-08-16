@@ -24,6 +24,9 @@
 
 
 
+
+### August 16, 2018 
+- [Securing Web Sites Made Them Less Accessible – Eric’s Archived Thoughts ](https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/) 
 ### August 8, 2018 
 - [Keeping up in the JavaScript world 🏃‍ - DEV Community 👩‍💻👨‍💻](https://dev.to/superkarolis/keeping-up-in-the-javascript-world--50pl?utm_source=Newsletter+Subscribers&utm_campaign=781e0f4d39-EMAIL_CAMPAIGN_2018_07_30_10_11_COPY_01&utm_medium=email&utm_term=0_d8f11d5d1e-781e0f4d39-154449157) 
 ### August 7, 2018 
