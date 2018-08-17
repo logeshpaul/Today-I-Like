@@ -25,6 +25,9 @@
 
 
 
+
+### August 17, 2018 
+- [Software 2.0 – Andrej Karpathy – Medium](https://medium.com/@karpathy/software-2-0-a64152b37c35) 
 ### August 16, 2018 
 - [Securing Web Sites Made Them Less Accessible – Eric’s Archived Thoughts ](https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/) 
 - [The Simple Truth Behind Reading 200 Books a Year | | Observer](http://observer.com/2017/01/the-simple-truth-behind-reading-200-books-a-year/) 
