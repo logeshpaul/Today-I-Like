@@ -26,6 +26,9 @@
 
 
 
+
+### August 21, 2018 
+- [Timsort: Fastest sorting algorithm for real world problems. - DEV Community 👩‍💻👨‍💻](https://dev.to/s_awdesh/timsort-fastest-sorting-algorithm-for-real-world-problems--2jhd) 
 ### August 17, 2018 
 - [Software 2.0 – Andrej Karpathy – Medium](https://medium.com/@karpathy/software-2-0-a64152b37c35) 
 ### August 16, 2018 
