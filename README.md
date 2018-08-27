@@ -28,6 +28,9 @@
 
 
 
+
+### August 27, 2018 
+- [CLI: improved – remys-blog – Medium](https://medium.com/remys-blog/cli-improved-6fa73189e200) 
 ### August 23, 2018 
 - [Why should you invest in Mutual Funds? – Raviteja Govindaraju – Medium](https://medium.com/@grt1710/why-should-you-invest-in-mutual-funds-7af53c62946a) 
 - [Why Everyone Should Watch Less News – Member Feature Stories – Medium](https://medium.com/s/story/the-case-for-watching-less-news-8020c88fd5f) 
