@@ -29,6 +29,9 @@
 
 
 
+
+### August 30, 2018 
+- [Aristotle's Philosophy of Friendship Still Matters Today](https://medium.com/s/story/aristotles-timeless-advice-on-what-real-friendship-is-and-why-it-matters-c0878418343f) 
 ### August 27, 2018 
 - [CLI: improved – remys-blog – Medium](https://medium.com/remys-blog/cli-improved-6fa73189e200) 
 ### August 23, 2018 
