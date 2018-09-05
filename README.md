@@ -30,6 +30,9 @@
 
 
 
+
+### September 5, 2018 
+- [4 practices for better code](https://dev.to/effingkay/4-practices-for-better-code-4nf3) 
 ### August 30, 2018 
 - [Aristotle's Philosophy of Friendship Still Matters Today](https://medium.com/s/story/aristotles-timeless-advice-on-what-real-friendship-is-and-why-it-matters-c0878418343f) 
 ### August 27, 2018 
