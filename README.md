@@ -32,6 +32,9 @@
 
 
 
+
+### September 27, 2018 
+- [Should I keep my laptop plugged in while I use it? | Grist](https://grist.org/living/should-i-keep-my-laptop-plugged-in-while-i-use-it/) 
 ### September 25, 2018 
 - [Everything in your home is about to get smart. Here’s what to watch out for.](https://thinkgrowth.org/everything-in-your-home-is-about-to-get-smart-heres-what-to-watch-out-for-3d5c16ab1561) 
 ### September 5, 2018 
