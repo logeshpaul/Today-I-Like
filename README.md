@@ -33,6 +33,9 @@
 
 
 
+
+### September 28, 2018 
+- [How To Become Financially Free – Data Driven Investor – Medium](https://medium.com/datadriveninvestor/how-to-become-financially-free-1b486d4c45aa) 
 ### September 27, 2018 
 - [Should I keep my laptop plugged in while I use it? | Grist](https://grist.org/living/should-i-keep-my-laptop-plugged-in-while-i-use-it/) 
 ### September 25, 2018 
