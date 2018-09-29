@@ -34,6 +34,9 @@
 
 
 
+
+### September 29, 2018 
+- [Focus and Deep Work — Your Secret Weapons to Becoming a 10X Developer](https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291) 
 ### September 28, 2018 
 - [How To Become Financially Free – Data Driven Investor – Medium](https://medium.com/datadriveninvestor/how-to-become-financially-free-1b486d4c45aa) 
 ### September 27, 2018 
