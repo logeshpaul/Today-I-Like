@@ -35,6 +35,9 @@
 
 
 
+
+### October 3, 2018 
+- [I Went to React Boston and Saw the Future | Netlify](https://www.netlify.com/blog/2018/10/01/i-went-to-react-boston-and-saw-the-future/?utm_source=twitter&utm_medium=social&utm_campaign=blog&utm_content=swyx) 
 ### September 29, 2018 
 - [Focus and Deep Work — Your Secret Weapons to Becoming a 10X Developer](https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291) 
 ### September 28, 2018 
