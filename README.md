@@ -36,6 +36,9 @@
 
 
 
+
+### October 11, 2018 
+- [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758) 
 ### October 3, 2018 
 - [I Went to React Boston and Saw the Future | Netlify](https://www.netlify.com/blog/2018/10/01/i-went-to-react-boston-and-saw-the-future/?utm_source=twitter&utm_medium=social&utm_campaign=blog&utm_content=swyx) 
 ### September 29, 2018 
