@@ -37,6 +37,9 @@
 
 
 
+
+### October 21, 2018 
+- [5 Tips to Write Better Conditionals in JavaScript ― Scotch](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript) 
 ### October 11, 2018 
 - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758) 
 ### October 3, 2018 
