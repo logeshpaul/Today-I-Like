@@ -38,6 +38,9 @@
 
 
 
+
+### October 22, 2018 
+- [How to Get Things Done When You Don't Feel Like It - ACM Queue](https://queue.acm.org/detail.cfm?id=3280677) 
 ### October 21, 2018 
 - [5 Tips to Write Better Conditionals in JavaScript ― Scotch](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript) 
 ### October 11, 2018 
