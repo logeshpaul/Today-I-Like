@@ -39,6 +39,9 @@
 
 
 
+
+### October 25, 2018 
+- [How To Change Your Life Every 90 Days – Benjamin P. Hardy – Medium](https://medium.com/@benjaminhardy/these-4-simple-questions-will-give-you-immediate-energy-excitement-and-motivation-8a51b3acf18e) 
 ### October 22, 2018 
 - [How to Get Things Done When You Don't Feel Like It - ACM Queue](https://queue.acm.org/detail.cfm?id=3280677) 
 ### October 21, 2018 
