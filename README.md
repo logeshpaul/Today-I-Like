@@ -41,6 +41,9 @@
 
 
 
+
+### October 30, 2018 
+- [The Bookish Life by Joseph Epstein | Articles | First Things](https://www.firstthings.com/article/2018/11/the-bookish-life?utm_source=hackernewsletter&utm_medium=email&utm_term=books) 
 ### October 29, 2018 
 - [How I switched careers and got a developer job in 10 months: a true story](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b) 
 ### October 25, 2018 
