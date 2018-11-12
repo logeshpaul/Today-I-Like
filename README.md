@@ -42,6 +42,9 @@
 
 
 
+
+### November 12, 2018 
+- [A 1 Minute Exercise To End Anxiety – The Ascent](https://theascent.pub/a-1-minute-exercise-to-end-anxiety-ee085dda6831) 
 ### October 30, 2018 
 - [The Bookish Life by Joseph Epstein | Articles | First Things](https://www.firstthings.com/article/2018/11/the-bookish-life?utm_source=hackernewsletter&utm_medium=email&utm_term=books) 
 - [Why A Daily Writing Habit Improves Your Life – The Blog Of Darius Foroux – Medium](https://medium.com/darius-foroux/why-a-daily-writing-habit-improves-your-life-d81bff93e982) 
