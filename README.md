@@ -43,6 +43,9 @@
 
 
 
+
+### November 13, 2018 
+- [Financial Minimalism – Lag Zone – Medium](https://medium.com/@lagzone/financial-minimalism-a2dd0fb4ceaa) 
 ### November 12, 2018 
 - [A 1 Minute Exercise To End Anxiety – The Ascent](https://theascent.pub/a-1-minute-exercise-to-end-anxiety-ee085dda6831) 
 ### October 30, 2018 
