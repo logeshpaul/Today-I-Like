@@ -44,6 +44,9 @@
 
 
 
+
+### November 14, 2018 
+- [Use This Psychological Trick to Train Your Brain into Loving Exercise](https://theascent.pub/use-this-psychological-trick-to-train-your-brain-into-loving-exercise-a620f5c8915d) 
 ### November 13, 2018 
 - [Financial Minimalism – Lag Zone – Medium](https://medium.com/@lagzone/financial-minimalism-a2dd0fb4ceaa) 
 ### November 12, 2018 
