@@ -45,6 +45,9 @@
 
 
 
+
+### November 16, 2018 
+- [11 Unusual Tips for How to Wake Up Early – Better Humans](https://betterhumans.coach.me/11-ninja-tips-on-how-to-wake-up-early-58d63d3972f3) 
 ### November 14, 2018 
 - [Use This Psychological Trick to Train Your Brain into Loving Exercise](https://theascent.pub/use-this-psychological-trick-to-train-your-brain-into-loving-exercise-a620f5c8915d) 
 - [How to build a Moon base](https://www.nature.com/articles/d41586-018-07107-4) 
