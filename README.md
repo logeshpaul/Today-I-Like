@@ -49,6 +49,7 @@
 
 ### November 19, 2018 
 - [This Anti-Aging Scientist Turns His Findings Into a Lifestyle](https://medium.com/s/the-health-diaries/how-this-anti-aging-scientist-turns-his-findings-into-a-lifestyle-c7599de7578e) 
+- [One Habit Separates The Successful From The Rest – The Startup – Medium](https://medium.com/swlh/one-habit-separates-the-successful-from-the-rest-b3cb5f84d36a) 
 ### November 16, 2018 
 - [11 Unusual Tips for How to Wake Up Early – Better Humans](https://betterhumans.coach.me/11-ninja-tips-on-how-to-wake-up-early-58d63d3972f3) 
 ### November 14, 2018 
