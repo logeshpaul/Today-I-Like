@@ -47,6 +47,9 @@
 
 
 
+
+### November 20, 2018 
+- [Tesla is what happens when you run a car company like a tech company - The Verge](https://www.theverge.com/2018/11/2/18054052/tesla-elon-musk-tech-car-company-social-change?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=twitter) 
 ### November 19, 2018 
 - [This Anti-Aging Scientist Turns His Findings Into a Lifestyle](https://medium.com/s/the-health-diaries/how-this-anti-aging-scientist-turns-his-findings-into-a-lifestyle-c7599de7578e) 
 - [One Habit Separates The Successful From The Rest – The Startup – Medium](https://medium.com/swlh/one-habit-separates-the-successful-from-the-rest-b3cb5f84d36a) 
