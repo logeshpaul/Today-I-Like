@@ -48,6 +48,9 @@
 
 
 
+
+### November 26, 2018 
+- [8 Timeless Skills to Learn Now in Under 8 Hours to Change your Life Forever](https://medium.com/swlh/8-timeless-skills-to-learn-now-in-under-8-hours-to-change-your-life-forever-75e7b339373a) 
 ### November 20, 2018 
 - [Tesla is what happens when you run a car company like a tech company - The Verge](https://www.theverge.com/2018/11/2/18054052/tesla-elon-musk-tech-car-company-social-change?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=twitter) 
 ### November 19, 2018 
