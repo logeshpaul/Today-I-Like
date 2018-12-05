@@ -49,6 +49,9 @@
 
 
 
+
+### December 5, 2018 
+- [Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c) 
 ### November 26, 2018 
 - [8 Timeless Skills to Learn Now in Under 8 Hours to Change your Life Forever](https://medium.com/swlh/8-timeless-skills-to-learn-now-in-under-8-hours-to-change-your-life-forever-75e7b339373a) 
 - [The 3 Most Important Skills to Learn Now to Thrive in 2019](https://medium.com/swlh/the-3-most-important-skills-to-learn-now-to-thrive-in-2019-be7a29bb16bf) 
