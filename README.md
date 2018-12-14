@@ -53,6 +53,7 @@
 
 ### December 14, 2018 
 - [Why Do We Write super(props)? - Overreacted](https://overreacted.io/why-do-we-write-super-props/) 
+- [What do you name color variables? | CSS-Tricks](https://css-tricks.com/what-do-you-name-color-variables/) 
 ### December 5, 2018 
 - [Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c) 
 ### November 26, 2018 
