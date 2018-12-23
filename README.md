@@ -51,6 +51,9 @@
 
 
 
+
+### December 23, 2018 
+- [30 Behaviours That Will Make You Unstoppable In 2019](https://medium.com/thrive-global/30-behaviors-that-will-make-you-unstoppable-in-2019-e42c92cbcda9) 
 ### December 14, 2018 
 - [Why Do We Write super(props)? - Overreacted](https://overreacted.io/why-do-we-write-super-props/) 
 - [What do you name color variables? | CSS-Tricks](https://css-tricks.com/what-do-you-name-color-variables/) 
