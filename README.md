@@ -52,6 +52,9 @@
 
 
 
+
+### January 3, 2019 
+- [How Does Redux Work? – Noteworthy - The Journal Blog](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6) 
 ### December 23, 2018 
 - [30 Behaviours That Will Make You Unstoppable In 2019](https://medium.com/thrive-global/30-behaviors-that-will-make-you-unstoppable-in-2019-e42c92cbcda9) 
 ### December 14, 2018 
