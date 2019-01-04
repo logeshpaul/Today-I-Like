@@ -53,6 +53,9 @@
 
 
 
+
+### January 4, 2019 
+- [“The Pragmatic Programmer” Is Essential Reading for Software Developers](https://blog.usejournal.com/the-pragmatic-programmer-is-essential-reading-for-software-developers-443940b8ef9f) 
 ### January 3, 2019 
 - [How Does Redux Work? – Noteworthy - The Journal Blog](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6) 
 - [19 Tips For Software Engineers In 2019 - DEV Community 👩‍💻👨‍💻](https://dev.to/emmawedekind/19-tips-for-software-engineers-in-2019-4okm) 
