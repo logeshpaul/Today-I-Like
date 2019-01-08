@@ -54,6 +54,9 @@
 
 
 
+
+### January 8, 2019 
+- [Increase Body Metabolism to Lose Weight](https://www.practo.com/healthfeed/increase-body-metabolism-to-lose-weight-5940/post?utm_campaign=hf_08012019_email&utm_medium=email&utm_source=mktg_b2c_hf_holonet) 
 ### January 4, 2019 
 - [“The Pragmatic Programmer” Is Essential Reading for Software Developers](https://blog.usejournal.com/the-pragmatic-programmer-is-essential-reading-for-software-developers-443940b8ef9f) 
 ### January 3, 2019 
