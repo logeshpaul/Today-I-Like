@@ -58,6 +58,7 @@
 
 ### January 17, 2019 
 - [Coolest Things I Learned In 2018 — David Perell](http://www.perell.com/blog/coolest-things-2018?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
+- [New horizons in CSS: Houdini and the Paint API – LogRocket](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb) 
 ### January 8, 2019 
 - [Increase Body Metabolism to Lose Weight](https://www.practo.com/healthfeed/increase-body-metabolism-to-lose-weight-5940/post?utm_campaign=hf_08012019_email&utm_medium=email&utm_source=mktg_b2c_hf_holonet) 
 ### January 4, 2019 
