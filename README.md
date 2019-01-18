@@ -60,6 +60,7 @@
 ### January 18, 2019 
 - [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) 
 - [Sass Techniques from the Trenches | CSS-Tricks](https://css-tricks.com/sass-techniques-from-the-trenches/) 
+- [When to use var vs let vs const in JavaScript – freeCodeCamp.org](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037) 
 ### January 17, 2019 
 - [Coolest Things I Learned In 2018 — David Perell](http://www.perell.com/blog/coolest-things-2018?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
 - [New horizons in CSS: Houdini and the Paint API – LogRocket](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb) 
