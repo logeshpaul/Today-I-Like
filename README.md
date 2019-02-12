@@ -57,6 +57,9 @@
 
 
 
+
+### February 12, 2019 
+- [A Developers Guide to Getting Fit - DEV Community 👩‍💻👨‍💻](https://dev.to/httpjunkie/a-developers-guide-to-getting-fit-pif?utm_source=Newsletter+Subscribers&utm_campaign=4a43dfb659-EMAIL_CAMPAIGN_2019_02_11_02_11&utm_medium=email&utm_term=0_d8f11d5d1e-4a43dfb659-154449157) 
 ### January 18, 2019 
 - [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) 
 - [Sass Techniques from the Trenches | CSS-Tricks](https://css-tricks.com/sass-techniques-from-the-trenches/) 
