@@ -62,6 +62,7 @@
 
 ### March 5, 2019 
 - [Solid Vs. Outline Icons: Which Are Faster to Recognize?](https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-to-recognize/) 
+- [The Stages Of Your Software Development Career - DEV Community 👩‍💻👨‍💻](https://dev.to/jamesmh/the-stages-of-your-software-development-career-2dd) 
 ### February 22, 2019 
 - [BEM: 4 Hang-Ups & How It Will Help Your CSS Organization](https://seesparkbox.com/foundry/bem_css_organization) 
 ### February 12, 2019 
