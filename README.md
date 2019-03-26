@@ -60,6 +60,9 @@
 
 
 
+
+### March 26, 2019 
+- [10 HTML Elements You Didn't Know You Needed - DEV Community 👩‍💻👨‍💻](https://dev.to/emmawedekind/10-html-element-you-didnt-know-you-needed-3jo4?utm_source=Newsletter+Subscribers&utm_campaign=7ca8819422-EMAIL_CAMPAIGN_2019_03_25_01_56&utm_medium=email&utm_term=0_d8f11d5d1e-7ca8819422-154449157) 
 ### March 5, 2019 
 - [Solid Vs. Outline Icons: Which Are Faster to Recognize?](https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-to-recognize/) 
 - [The Stages Of Your Software Development Career - DEV Community 👩‍💻👨‍💻](https://dev.to/jamesmh/the-stages-of-your-software-development-career-2dd) 
