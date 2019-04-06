@@ -61,6 +61,9 @@
 
 
 
+
+### April 6, 2019 
+- [The Japanese Concept ‘Ikigai’ is a Formula for Happiness and Meaning](https://betterhumans.coach.me/the-japanese-concept-ikigai-is-a-formula-for-happiness-and-meaning-8e497e5afa99) 
 ### March 26, 2019 
 - [10 HTML Elements You Didn't Know You Needed - DEV Community 👩‍💻👨‍💻](https://dev.to/emmawedekind/10-html-element-you-didnt-know-you-needed-3jo4?utm_source=Newsletter+Subscribers&utm_campaign=7ca8819422-EMAIL_CAMPAIGN_2019_03_25_01_56&utm_medium=email&utm_term=0_d8f11d5d1e-7ca8819422-154449157) 
 - [Easy to Remember Color Guide for Non-Designers - Send With SES](https://sendwithses.gitbook.io/helpdocs/random-stuff/easy-to-remember-color-guide-for-non-designers) 
