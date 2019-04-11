@@ -62,6 +62,9 @@
 
 
 
+
+### April 11, 2019 
+- [All About mailto: Links | CSS-Tricks](https://css-tricks.com/all-about-mailto-links/) 
 ### April 6, 2019 
 - [The Japanese Concept ‘Ikigai’ is a Formula for Happiness and Meaning](https://betterhumans.coach.me/the-japanese-concept-ikigai-is-a-formula-for-happiness-and-meaning-8e497e5afa99) 
 ### March 26, 2019 
