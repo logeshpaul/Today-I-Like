@@ -63,6 +63,9 @@
 
 
 
+
+### April 23, 2019 
+- [Writing Good Source Control Commit Messages - DEV Community 👩‍💻👨‍💻](https://dev.to/rachelsoderberg/writing-good-source-control-commit-messages-2j2m) 
 ### April 11, 2019 
 - [All About mailto: Links | CSS-Tricks](https://css-tricks.com/all-about-mailto-links/) 
 ### April 6, 2019 
