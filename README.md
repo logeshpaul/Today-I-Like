@@ -65,6 +65,9 @@
 
 
 
+
+### April 30, 2019 
+- [Reflection: How to Do Daily, Weekly, and Monthly Reviews, BuJo Style](https://betterhumans.coach.me/reflection-how-to-do-daily-weekly-and-monthly-reviews-bujo-style-2daa1edfba27) 
 ### April 29, 2019 
 - [Introducing Base Web, Uber’s New Design System for Building Websites in React | Uber Engineering Blog](https://eng.uber.com/introducing-base-web/) 
 ### April 23, 2019 
