@@ -66,6 +66,9 @@
 
 
 
+
+### May 7, 2019 
+- [Ask HN: How do you stay disciplined in the long run? | Hacker News](https://news.ycombinator.com/item?id=19777976&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn) 
 ### April 30, 2019 
 - [Reflection: How to Do Daily, Weekly, and Monthly Reviews, BuJo Style](https://betterhumans.coach.me/reflection-how-to-do-daily-weekly-and-monthly-reviews-bujo-style-2daa1edfba27) 
 ### April 29, 2019 
