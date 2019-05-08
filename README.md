@@ -67,6 +67,9 @@
 
 
 
+
+### May 8, 2019 
+- [Five reasons why Web Components could complement JavaScript frameworks](https://medium.com/javascript-in-plain-english/could-web-components-actually-compliment-javascript-frameworks-5-reasons-why-i-think-so-971eee82ee85) 
 ### May 7, 2019 
 - [Ask HN: How do you stay disciplined in the long run? | Hacker News](https://news.ycombinator.com/item?id=19777976&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn) 
 ### April 30, 2019 
