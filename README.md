@@ -68,6 +68,9 @@
 
 
 
+
+### May 16, 2019 
+- [Impress your colleagues with these NPM tricks - DEV Community 👩‍💻👨‍💻](https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb) 
 ### May 8, 2019 
 - [Five reasons why Web Components could complement JavaScript frameworks](https://medium.com/javascript-in-plain-english/could-web-components-actually-compliment-javascript-frameworks-5-reasons-why-i-think-so-971eee82ee85) 
 ### May 7, 2019 
