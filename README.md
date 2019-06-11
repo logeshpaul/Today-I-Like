@@ -70,6 +70,9 @@
 
 
 
+
+### June 11, 2019 
+- [10 Powerful Ways to Master Self-Discipline](https://www.entrepreneur.com/article/287005) 
 ### May 29, 2019 
 - [How to Stay Fit Physically and Mentally and Keep Coding - DEV Community 👩‍💻👨‍💻](https://dev.to/ilonacodes/how-to-stay-fit-physically-and-mentally-and-keep-coding-5a4p?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### May 16, 2019 
