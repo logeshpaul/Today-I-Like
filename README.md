@@ -71,6 +71,9 @@
 
 
 
+
+### June 12, 2019 
+- [The Future Of Dark Mode Interfaces](https://maxsnitser.com/blog/the-future-of-dark-mode-interfaces) 
 ### June 11, 2019 
 - [10 Powerful Ways to Master Self-Discipline](https://www.entrepreneur.com/article/287005) 
 ### May 29, 2019 
