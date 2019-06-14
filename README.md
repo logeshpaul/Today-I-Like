@@ -72,6 +72,9 @@
 
 
 
+
+### June 14, 2019 
+- [Reinvent Your Daily Routine With This Japanese Philosophy](https://theascent.pub/reinvent-your-daily-routine-with-this-japanese-philosophy-e54ce42b9698) 
 ### June 12, 2019 
 - [The Future Of Dark Mode Interfaces](https://maxsnitser.com/blog/the-future-of-dark-mode-interfaces) 
 ### June 11, 2019 
