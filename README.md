@@ -73,6 +73,9 @@
 
 
 
+
+### June 18, 2019 
+- [Top 7 must have Webpack plugins for your next React 2019 application](https://blog.linguinecode.com/post/top-webpack-plugins) 
 ### June 14, 2019 
 - [Reinvent Your Daily Routine With This Japanese Philosophy](https://theascent.pub/reinvent-your-daily-routine-with-this-japanese-philosophy-e54ce42b9698) 
 ### June 12, 2019 
