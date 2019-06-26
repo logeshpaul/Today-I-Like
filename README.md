@@ -74,6 +74,9 @@
 
 
 
+
+### June 26, 2019 
+- [The State of CSS 2019](https://2019.stateofcss.com/) 
 ### June 18, 2019 
 - [Top 7 must have Webpack plugins for your next React 2019 application](https://blog.linguinecode.com/post/top-webpack-plugins) 
 ### June 14, 2019 
