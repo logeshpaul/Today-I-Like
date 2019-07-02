@@ -75,6 +75,9 @@
 
 
 
+
+### July 2, 2019 
+- [Which goals need which asset classes? | Scripbox.com](https://scripbox.com/blog/which-goals-need-which-asset-classes) 
 ### June 26, 2019 
 - [The State of CSS 2019](https://2019.stateofcss.com/) 
 - [Flow is the Opiate of the Mediocre: Advice on Getting Better from an Accomplished Piano Player - Study Hacks - Cal Newport](http://www.calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/) 
