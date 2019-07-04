@@ -76,6 +76,9 @@
 
 
 
+
+### July 4, 2019 
+- [The Art and Science of Remembering – Elemental](https://elemental.medium.com/the-art-and-science-of-remembering-df393a17685b) 
 ### July 2, 2019 
 - [Which goals need which asset classes? | Scripbox.com](https://scripbox.com/blog/which-goals-need-which-asset-classes) 
 ### June 26, 2019 
