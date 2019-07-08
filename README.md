@@ -77,6 +77,9 @@
 
 
 
+
+### July 8, 2019 
+- [8 Smart Ways To Read More Books - Tom Stevenson - Medium](https://medium.com/@tom.stevenson78/8-smart-ways-to-read-more-books-b4be4bfad7db) 
 ### July 4, 2019 
 - [The Art and Science of Remembering – Elemental](https://elemental.medium.com/the-art-and-science-of-remembering-df393a17685b) 
 ### July 2, 2019 
