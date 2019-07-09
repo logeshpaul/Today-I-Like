@@ -78,6 +78,9 @@
 
 
 
+
+### July 9, 2019 
+- [My Google Technical Interview Cheat Sheet - DEV Community 👩‍💻👨‍💻](https://dev.to/elliot/my-google-technical-interview-cheat-sheet-1lbd) 
 ### July 8, 2019 
 - [8 Smart Ways To Read More Books - Tom Stevenson - Medium](https://medium.com/@tom.stevenson78/8-smart-ways-to-read-more-books-b4be4bfad7db) 
 ### July 4, 2019 
