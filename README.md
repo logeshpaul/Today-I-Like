@@ -79,6 +79,9 @@
 
 
 
+
+### July 15, 2019 
+- [26 Miraculous VS Code Tools for JavaScript Developers in 2019 - DEV Community 👩‍💻👨‍💻](https://dev.to/jsmanifest/26-miraculous-vs-code-tools-for-javascript-developers-in-2019-50gg) 
 ### July 9, 2019 
 - [My Google Technical Interview Cheat Sheet - DEV Community 👩‍💻👨‍💻](https://dev.to/elliot/my-google-technical-interview-cheat-sheet-1lbd) 
 ### July 8, 2019 
