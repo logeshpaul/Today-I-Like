@@ -80,6 +80,9 @@
 
 
 
+
+### July 17, 2019 
+- [Difference Between Web Storage Types - DEV Community 👩‍💻👨‍💻](https://dev.to/flippedcoding/difference-between-web-storage-types-8mo?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### July 15, 2019 
 - [26 Miraculous VS Code Tools for JavaScript Developers in 2019 - DEV Community 👩‍💻👨‍💻](https://dev.to/jsmanifest/26-miraculous-vs-code-tools-for-javascript-developers-in-2019-50gg) 
 ### July 9, 2019 
