@@ -81,6 +81,9 @@
 
 
 
+
+### August 8, 2019 
+- [6 Principles that will help you to be in Peace with Yourself](https://medium.com/swlh/6-principles-that-will-help-you-to-be-in-peace-with-yourself-20050522b46e) 
 ### July 17, 2019 
 - [Difference Between Web Storage Types - DEV Community 👩‍💻👨‍💻](https://dev.to/flippedcoding/difference-between-web-storage-types-8mo?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 - [Building a design system — where to start? (Part 3 — Size and spacing)](https://uxdesign.cc/building-a-design-system-where-to-start-part-3-size-and-spacing-a6f6f623491a) 
