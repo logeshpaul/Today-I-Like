@@ -82,6 +82,9 @@
 
 
 
+
+### August 13, 2019 
+- [10 Things Happy People Do Consistently - Anton Chevalier - Medium](https://medium.com/@antonchevalier/10-things-happy-people-do-consistently-a8cf2e2a23f) 
 ### August 8, 2019 
 - [6 Principles that will help you to be in Peace with Yourself](https://medium.com/swlh/6-principles-that-will-help-you-to-be-in-peace-with-yourself-20050522b46e) 
 ### July 17, 2019 
