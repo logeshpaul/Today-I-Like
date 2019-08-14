@@ -83,6 +83,9 @@
 
 
 
+
+### August 14, 2019 
+- [Responsive data tables with CSS Grid - Evodeck Software - Medium](https://medium.com/evodeck/responsive-data-tables-with-css-grid-3c58ecf04723) 
 ### August 13, 2019 
 - [10 Things Happy People Do Consistently - Anton Chevalier - Medium](https://medium.com/@antonchevalier/10-things-happy-people-do-consistently-a8cf2e2a23f) 
 ### August 8, 2019 
