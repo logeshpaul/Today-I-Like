@@ -84,6 +84,9 @@
 
 
 
+
+### August 22, 2019 
+- [Want More Income Than Ever Before? First, You Need to Evolve. Here’s How.](https://medium.com/swlh/want-more-income-than-ever-before-first-you-need-to-evolve-heres-how-6460e77a179a) 
 ### August 14, 2019 
 - [Responsive data tables with CSS Grid - Evodeck Software - Medium](https://medium.com/evodeck/responsive-data-tables-with-css-grid-3c58ecf04723) 
 ### August 13, 2019 
