@@ -85,6 +85,9 @@
 
 
 
+
+### August 26, 2019 
+- [10 Life Quotes That (If Applied) Will Change the Way You See The World Forever](https://psiloveyou.xyz/10-life-quotes-that-if-applied-will-change-the-way-you-see-the-world-forever-d05338ae489b) 
 ### August 22, 2019 
 - [Want More Income Than Ever Before? First, You Need to Evolve. Here’s How.](https://medium.com/swlh/want-more-income-than-ever-before-first-you-need-to-evolve-heres-how-6460e77a179a) 
 ### August 14, 2019 
