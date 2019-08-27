@@ -86,6 +86,9 @@
 
 
 
+
+### August 27, 2019 
+- [The power of journaling - The Ascent - Medium](https://medium.com/the-ascent/the-power-of-journaling-d8654060c7a7) 
 ### August 26, 2019 
 - [10 Life Quotes That (If Applied) Will Change the Way You See The World Forever](https://psiloveyou.xyz/10-life-quotes-that-if-applied-will-change-the-way-you-see-the-world-forever-d05338ae489b) 
 ### August 22, 2019 
