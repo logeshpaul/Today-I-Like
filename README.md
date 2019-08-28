@@ -87,6 +87,9 @@
 
 
 
+
+### August 28, 2019 
+- [Enjoy Pursuing Your Goals - Mentors Without Borders - Medium](https://medium.com/mentors-without-borders/how-do-we-move-in-the-direction-of-our-goals-1c357e115c68#.eazqkiq6c) 
 ### August 27, 2019 
 - [The power of journaling - The Ascent - Medium](https://medium.com/the-ascent/the-power-of-journaling-d8654060c7a7) 
 ### August 26, 2019 
