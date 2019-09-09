@@ -88,6 +88,9 @@
 
 
 
+
+### September 10, 2019 
+- [36 Essential Tools for JavaScript in 2019 - DEV Community 👩‍💻👨‍💻](https://dev.to/x-team/36-essential-tools-for-javascript-in-2019-172b?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### August 28, 2019 
 - [Enjoy Pursuing Your Goals - Mentors Without Borders - Medium](https://medium.com/mentors-without-borders/how-do-we-move-in-the-direction-of-our-goals-1c357e115c68#.eazqkiq6c) 
 ### August 27, 2019 
