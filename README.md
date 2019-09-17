@@ -90,6 +90,9 @@
 
 
 
+
+### September 17, 2019 
+- [Work from a calendar, not a To-Do list. - Jason Figures Sh*t Out. - Medium](https://medium.com/jason-figures-sh-t-out/work-from-a-calendar-not-a-to-do-list-9c93ea88fbcf) 
 ### September 13, 2019 
 - [How to Live the Keanu Reeves Way of Life and Produce His Extraordinary Results in the Process](https://psiloveyou.xyz/how-to-live-the-keanu-reeves-way-of-life-and-produce-his-extraordinary-results-in-the-process-25e34702a1f8) 
 ### September 10, 2019 
