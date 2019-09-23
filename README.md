@@ -91,6 +91,9 @@
 
 
 
+
+### September 23, 2019 
+- [10 Life-Changing Habits You Can Form in 66 Days - Forge](https://forge.medium.com/10-life-changing-habits-you-can-form-within-66-days-cde61237577) 
 ### September 17, 2019 
 - [Work from a calendar, not a To-Do list. - Jason Figures Sh*t Out. - Medium](https://medium.com/jason-figures-sh-t-out/work-from-a-calendar-not-a-to-do-list-9c93ea88fbcf) 
 ### September 13, 2019 
