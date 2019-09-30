@@ -92,6 +92,9 @@
 
 
 
+
+### September 30, 2019 
+- [Cheat sheets: UI terms - UX Collective](https://uxdesign.cc/cheat-sheets-ui-terms-cadf9dc49689) 
 ### September 23, 2019 
 - [10 Life-Changing Habits You Can Form in 66 Days - Forge](https://forge.medium.com/10-life-changing-habits-you-can-form-within-66-days-cde61237577) 
 ### September 17, 2019 
