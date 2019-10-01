@@ -93,6 +93,9 @@
 
 
 
+
+### October 1, 2019 
+- [The Difference Between Throttling and Debouncing | CSS-Tricks](https://css-tricks.com/the-difference-between-throttling-and-debouncing/) 
 ### September 30, 2019 
 - [Cheat sheets: UI terms - UX Collective](https://uxdesign.cc/cheat-sheets-ui-terms-cadf9dc49689) 
 ### September 23, 2019 
