@@ -94,6 +94,9 @@
 
 
 
+
+### October 7, 2019 
+- [A List of Fun Things You Can Build as a Developer - Better Programming - Medium](https://medium.com/better-programming/a-list-of-fun-things-you-can-build-as-a-developer-bc07fd21c6e3) 
 ### October 1, 2019 
 - [The Difference Between Throttling and Debouncing | CSS-Tricks](https://css-tricks.com/the-difference-between-throttling-and-debouncing/) 
 ### September 30, 2019 
