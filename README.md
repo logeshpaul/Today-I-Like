@@ -98,6 +98,7 @@
 
 ### October 8, 2019 
 - [A Modern CSS Reset - DEV Community 👩‍💻👨‍💻](https://dev.to/hankchizljaw/a-modern-css-reset-6p3) 
+- [14 Questions to Ask Yourself Again and Again - Forge](https://forge.medium.com/14-questions-to-ask-yourself-again-and-again-8e832d1394c1) 
 ### October 7, 2019 
 - [A List of Fun Things You Can Build as a Developer - Better Programming - Medium](https://medium.com/better-programming/a-list-of-fun-things-you-can-build-as-a-developer-bc07fd21c6e3) 
 - [How to Remove Unused CSS - NotOnlyCSS - Medium](https://medium.com/notonlycss/how-to-remove-unused-css-ad67421794a7) 
