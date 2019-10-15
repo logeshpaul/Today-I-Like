@@ -96,6 +96,9 @@
 
 
 
+
+### October 15, 2019 
+- [The World-Wide Work. — Ethan Marcotte](https://ethanmarcotte.com/wrote/the-world-wide-work/) 
 ### October 8, 2019 
 - [A Modern CSS Reset - DEV Community 👩‍💻👨‍💻](https://dev.to/hankchizljaw/a-modern-css-reset-6p3) 
 - [14 Questions to Ask Yourself Again and Again - Forge](https://forge.medium.com/14-questions-to-ask-yourself-again-and-again-8e832d1394c1) 
