@@ -100,6 +100,7 @@
 
 ### October 22, 2019 
 - [Why You Should Learn JavaScript Principles First (Not the Hottest Frameworks) - DEV Community 👩‍💻👨‍💻](https://dev.to/blarzhernandez/why-you-should-learn-javascript-principles-first-not-the-hottest-frameworks-kb9?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
+- [I'm a professional React developer, and these are the npm packages I use the most often. - DEV Community 👩‍💻👨‍💻](https://dev.to/bettercodingacademy/i-m-a-professional-react-developer-and-these-are-the-npm-packages-i-use-the-most-often-4lie?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### October 15, 2019 
 - [The World-Wide Work. — Ethan Marcotte](https://ethanmarcotte.com/wrote/the-world-wide-work/) 
 ### October 8, 2019 
