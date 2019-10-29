@@ -98,6 +98,9 @@
 
 
 
+
+### October 29, 2019 
+- [7 React Libraries That Will Make Your Life Easier - Better Programming - Medium](https://medium.com/better-programming/7-react-libraries-that-will-make-your-life-easier-1c760a6cd1cf) 
 ### October 22, 2019 
 - [Why You Should Learn JavaScript Principles First (Not the Hottest Frameworks) - DEV Community 👩‍💻👨‍💻](https://dev.to/blarzhernandez/why-you-should-learn-javascript-principles-first-not-the-hottest-frameworks-kb9?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 - [I'm a professional React developer, and these are the npm packages I use the most often. - DEV Community 👩‍💻👨‍💻](https://dev.to/bettercodingacademy/i-m-a-professional-react-developer-and-these-are-the-npm-packages-i-use-the-most-often-4lie?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
