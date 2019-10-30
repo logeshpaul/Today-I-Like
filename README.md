@@ -99,6 +99,9 @@
 
 
 
+
+### October 30, 2019 
+- [A Business Case for Dropping Internet Explorer | CSS-Tricks](https://css-tricks.com/a-business-case-for-dropping-internet-explorer/?utm_source=CSS-Weekly&utm_campaign=Issue-384&utm_medium=email) 
 ### October 29, 2019 
 - [7 React Libraries That Will Make Your Life Easier - Better Programming - Medium](https://medium.com/better-programming/7-react-libraries-that-will-make-your-life-easier-1c760a6cd1cf) 
 ### October 22, 2019 
