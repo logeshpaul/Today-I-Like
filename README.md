@@ -100,6 +100,9 @@
 
 
 
+
+### November 2, 2019 
+- [Understanding This, Bind, Call, and Apply in JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/digitalocean/understanding-this-bind-call-and-apply-in-javascript-dla?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### October 30, 2019 
 - [A Business Case for Dropping Internet Explorer | CSS-Tricks](https://css-tricks.com/a-business-case-for-dropping-internet-explorer/?utm_source=CSS-Weekly&utm_campaign=Issue-384&utm_medium=email) 
 ### October 29, 2019 
