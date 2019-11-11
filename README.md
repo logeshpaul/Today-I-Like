@@ -101,6 +101,9 @@
 
 
 
+
+### November 11, 2019 
+- [Ten Daily Habits That Brought Me 7 Sources of Income](https://medium.com/the-partnered-pen/ten-daily-habits-that-brought-me-7-sources-of-income-63674f8a5953) 
 ### November 2, 2019 
 - [Understanding This, Bind, Call, and Apply in JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/digitalocean/understanding-this-bind-call-and-apply-in-javascript-dla?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### October 30, 2019 
