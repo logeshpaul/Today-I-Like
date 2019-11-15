@@ -102,6 +102,9 @@
 
 
 
+
+### November 15, 2019 
+- [Here Are 11 Console Commands Every Developer Should Know](https://medium.com/better-programming/here-are-11-console-commands-every-developer-should-know-54e348ef22fa) 
 ### November 11, 2019 
 - [Ten Daily Habits That Brought Me 7 Sources of Income](https://medium.com/the-partnered-pen/ten-daily-habits-that-brought-me-7-sources-of-income-63674f8a5953) 
 ### November 2, 2019 
