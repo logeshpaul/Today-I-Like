@@ -103,6 +103,9 @@
 
 
 
+
+### November 16, 2019 
+- [Unit Tests aren’t ‘tests’ | Gauge Blog](https://gauge.org/2019/03/15/unit-tests-arent-tests/?utm_source=JS_weekly&utm_medium=newsletter_ad&utm_campaign=js_weekly&utm_term=&utm_content=) 
 ### November 15, 2019 
 - [Here Are 11 Console Commands Every Developer Should Know](https://medium.com/better-programming/here-are-11-console-commands-every-developer-should-know-54e348ef22fa) 
 ### November 11, 2019 
