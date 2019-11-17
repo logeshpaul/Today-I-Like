@@ -104,6 +104,9 @@
 
 
 
+
+### November 17, 2019 
+- [The Super Simple Strategy For Greater Focus - Personal Growth - Medium](https://medium.com/personal-growth/the-super-simple-strategy-for-greater-focus-6d467b9d66c8) 
 ### November 16, 2019 
 - [Unit Tests aren’t ‘tests’ | Gauge Blog](https://gauge.org/2019/03/15/unit-tests-arent-tests/?utm_source=JS_weekly&utm_medium=newsletter_ad&utm_campaign=js_weekly&utm_term=&utm_content=) 
 ### November 15, 2019 
