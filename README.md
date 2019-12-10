@@ -105,6 +105,9 @@
 
 
 
+
+### December 10, 2019 
+- [9 new features in ES2019](https://javascript.christmas/2019/7) 
 ### November 17, 2019 
 - [The Super Simple Strategy For Greater Focus - Personal Growth - Medium](https://medium.com/personal-growth/the-super-simple-strategy-for-greater-focus-6d467b9d66c8) 
 ### November 16, 2019 
