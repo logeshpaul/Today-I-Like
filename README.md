@@ -106,6 +106,9 @@
 
 
 
+
+### December 11, 2019 
+- [The 2 Principles You Need To Follow For Success In 2020](https://medium.com/personal-growth-lab/the-2-principles-you-need-to-follow-for-success-in-2020-6db2613eea3c) 
 ### December 10, 2019 
 - [9 new features in ES2019](https://javascript.christmas/2019/7) 
 ### November 17, 2019 
