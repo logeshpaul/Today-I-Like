@@ -107,6 +107,9 @@
 
 
 
+
+### December 17, 2019 
+- [The Next Time Someone Annoys You, Remember This Story](https://psiloveyou.xyz/the-next-time-someone-annoys-you-remember-this-story-61948c4d71ce) 
 ### December 11, 2019 
 - [The 2 Principles You Need To Follow For Success In 2020](https://medium.com/personal-growth-lab/the-2-principles-you-need-to-follow-for-success-in-2020-6db2613eea3c) 
 ### December 10, 2019 
