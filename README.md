@@ -108,6 +108,9 @@
 
 
 
+
+### February 27, 2020 
+- [10 Must-Read Books for Software Engineers - Better Programming - Medium](https://medium.com/better-programming/10-must-read-books-for-software-engineers-edfac373821b) 
 ### December 17, 2019 
 - [The Next Time Someone Annoys You, Remember This Story](https://psiloveyou.xyz/the-next-time-someone-annoys-you-remember-this-story-61948c4d71ce) 
 ### December 11, 2019 
