@@ -110,6 +110,9 @@
 
 
 
+
+### March 11, 2020 
+- [3 Terminal Commands to Increase Your Productivity - Better Programming - Medium](https://medium.com/better-programming/3-terminal-commands-to-increase-your-productivity-9dbab9f1a015) 
 ### March 4, 2020 
 - [6 Habits of Highly Healthy Brains - Mind Cafe - Medium](https://medium.com/mind-cafe/6-habits-of-highly-healthy-brains-ef0c1c86014b) 
 ### February 27, 2020 
