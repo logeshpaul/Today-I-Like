@@ -111,6 +111,9 @@
 
 
 
+
+### March 16, 2020 
+- [How to animate scrolling to anchor links with one line of CSS | Go Make Things](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/?utm_source=CSS-Weekly&utm_campaign=Issue-401&utm_medium=email) 
 ### March 11, 2020 
 - [3 Terminal Commands to Increase Your Productivity - Better Programming - Medium](https://medium.com/better-programming/3-terminal-commands-to-increase-your-productivity-9dbab9f1a015) 
 ### March 4, 2020 
