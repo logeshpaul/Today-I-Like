@@ -112,6 +112,9 @@
 
 
 
+
+### April 1, 2020 
+- [8 Things You Can Learn in 10 Minutes That Will 10x Your Productivity](https://medium.com/kaizen-habits/habits-you-can-learn-in-10-minutes-that-will-make-you-more-productive-for-the-rest-of-your-life-b428015becfb) 
 ### March 16, 2020 
 - [How to animate scrolling to anchor links with one line of CSS | Go Make Things](https://gomakethings.com/how-to-animate-scrolling-to-anchor-links-with-one-line-of-css/?utm_source=CSS-Weekly&utm_campaign=Issue-401&utm_medium=email) 
 ### March 11, 2020 
