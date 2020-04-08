@@ -113,6 +113,9 @@
 
 
 
+
+### April 8, 2020 
+- [I’m 30 and Planning on Retiring in 10 Years](https://www.thecut.com/2018/11/im-30-and-planning-on-retiring-in-10-years.html) 
 ### April 1, 2020 
 - [8 Things You Can Learn in 10 Minutes That Will 10x Your Productivity](https://medium.com/kaizen-habits/habits-you-can-learn-in-10-minutes-that-will-make-you-more-productive-for-the-rest-of-your-life-b428015becfb) 
 ### March 16, 2020 
