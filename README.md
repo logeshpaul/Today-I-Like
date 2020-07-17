@@ -114,6 +114,9 @@
 
 
 
+
+### July 17, 2020 
+- [Why Cancel Buttons Should Never Have a Color | by UX Movement | Medium](https://medium.com/@uxmovement/why-cancel-buttons-should-never-have-a-color-6ce7e763d7f1) 
 ### April 8, 2020 
 - [I’m 30 and Planning on Retiring in 10 Years](https://www.thecut.com/2018/11/im-30-and-planning-on-retiring-in-10-years.html) 
 ### April 1, 2020 
