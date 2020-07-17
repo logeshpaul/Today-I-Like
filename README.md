@@ -117,6 +117,7 @@
 
 ### July 17, 2020 
 - [Why Cancel Buttons Should Never Have a Color | by UX Movement | Medium](https://medium.com/@uxmovement/why-cancel-buttons-should-never-have-a-color-6ce7e763d7f1) 
+- [A 105 Year-Old Japanese Doctor’s Guide to Living Longer | by Rajeet Singh | Mind Cafe | Jun, 2020 | Medium](https://medium.com/mind-cafe/a-105-year-old-japanese-doctors-guide-to-living-longer-1c713f07096c) 
 ### April 8, 2020 
 - [I’m 30 and Planning on Retiring in 10 Years](https://www.thecut.com/2018/11/im-30-and-planning-on-retiring-in-10-years.html) 
 ### April 1, 2020 
