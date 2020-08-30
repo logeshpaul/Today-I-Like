@@ -115,6 +115,9 @@
 
 
 
+
+### August 31, 2020 
+- [4 Radically Proactive Habits That Pay Off Exponentially in 10 Years | by Thomas Oppong | ILLUMINATION | Aug, 2020 | Medium](https://medium.com/illumination/4-radically-proactive-habits-that-pay-off-exponentially-in-10-years-e7cc13632b1d) 
 ### July 17, 2020 
 - [Why Cancel Buttons Should Never Have a Color | by UX Movement | Medium](https://medium.com/@uxmovement/why-cancel-buttons-should-never-have-a-color-6ce7e763d7f1) 
 - [A 105 Year-Old Japanese Doctor’s Guide to Living Longer | by Rajeet Singh | Mind Cafe | Jun, 2020 | Medium](https://medium.com/mind-cafe/a-105-year-old-japanese-doctors-guide-to-living-longer-1c713f07096c) 
